@@ -1,0 +1,104 @@
+* p {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("http://robpongi.com/pics/the-flatiron-building.png");
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  color: white;
+  font-size: 18px;
+  color: white
+  text-align: center;
+}
+
+h3 {
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h4 {
+  background-image: url("http://robpongi.com/pics/the-flatiron-building.png");
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h5 {
+  font-size: 14px;
+  text-align: center;
+}
+
+h6 {
+  background-image: url("http://robpongi.com/pics/the-flatiron-building.png");
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.Home  {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.About {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.Work {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.Team {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.Contact {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+
+.footer {
+    text-align: left;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+}
+
+#nav {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+}
+#nav.vertical {
+    display: block;
+    padding-left: 20px;
+}
+#nav.vertical li {
+    display: list-item;
+    line-height: 40px;
+}
+#nav li {
+    display:inline-block;
+    padding-right: 40px;
+}
+#nav li:last-child {
+    padding-right: 0;
+}

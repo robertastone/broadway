@@ -1,0 +1,43 @@
+* p {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("http://robpongi.com/pics/the-flatiron-building.png");
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+
+h2 {
+  color: white;
+  font-size: 18px;
+  color: white
+  text-align: center;
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h5 {
+  font-size: 14px;
+  text-align: center;
+}
+
+#Home, #About, #Work #Team, #Contact {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+
+.footer {
+    text-align: left;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+}
